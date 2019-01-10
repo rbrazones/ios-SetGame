@@ -5,4 +5,4 @@
 
 This is a iOS version of the __Set__ card game.
 
-![Screenshot](screenshots/portrait.png)
+![Screenshot](screenshots/combined.png)
